@@ -14,3 +14,4 @@ Verification: You can use a tool like objdump or a hex editor to examine the con
 4. Linking:This command links the object file program.o with any necessary library files to create the final executable file program.exe.
 Command: gcc program.o -o program.exe
 Verification: Run the executable from the command line: ./program.exe
+
